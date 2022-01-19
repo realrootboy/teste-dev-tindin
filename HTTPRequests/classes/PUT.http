@@ -1,0 +1,10 @@
+PUT http://localhost:8000/classes/61e5f6faf40455dd850a0be8
+content-type: application/json
+
+{
+    "name": "Classe de teste atualizada",
+    "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "data_init": "2016-01-17T23:24:39.776Z",
+    "data_end": "2020-01-01",
+    "total_comments": 0
+}

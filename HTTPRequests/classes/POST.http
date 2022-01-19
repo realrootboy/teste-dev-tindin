@@ -1,0 +1,10 @@
+POST http://localhost:8000/classes
+content-type: application/json
+
+{
+    "name": "Classe de teste",
+    "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "data_init": "2022-01-17T23:24:39.776Z",
+    "data_end": "2022-01-17T23:24:39.776Z",
+    "total_comments": 0
+}
